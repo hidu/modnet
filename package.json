@@ -1,0 +1,23 @@
+{
+  "name": "hidu-modnet",
+  "version": "1.0.0",
+  "description": "https://github.com/hidu/modnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hidu/modnet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hidu/modnet/issues"
+  },
+  "files": [
+    "modnet.onnx"
+  ],
+  "homepage": "https://github.com/hidu/modnet#readme"
+}
